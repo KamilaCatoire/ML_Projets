@@ -1,1 +1,4 @@
-# ML_Supervised_Projets
+# ML Projets:
+* Walmart
+* Uber Pickups
+* Conversion Rate challenge
