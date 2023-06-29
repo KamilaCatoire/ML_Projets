@@ -9,7 +9,7 @@
 
 ## Walmart Weekly Sales
 
-BDevelop a machine learning model capable of predicting the weekly sales at Walmart stores.
+Develop a machine learning model capable of predicting the weekly sales at Walmart stores.
 
 The provided dataset comprises data on weekly sales across various Walmart stores, along with additional variables such as the unemployment rate and fuel price. 
 
