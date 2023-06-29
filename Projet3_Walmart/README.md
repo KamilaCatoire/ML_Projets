@@ -11,7 +11,7 @@
 
 BDevelop a machine learning model capable of predicting the weekly sales at Walmart stores.
 
-The provided dataset comprises data on weekly sales across various Walmart stores, along with additional variables such as the unemployment rate and fuel price. It should be noted that the dataset has been modified from its original form, which was sourced from a Kaggle competition.
+The provided dataset comprises data on weekly sales across various Walmart stores, along with additional variables such as the unemployment rate and fuel price. 
 
 To accomplish the task, the following three steps need to be undertaken:
 
