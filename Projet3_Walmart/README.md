@@ -5,9 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 
-# JEDHA PROJECT INFORMATION. SUPERVISED ML
-
-## Walmart Weekly Sales
+# Walmart Weekly Sales
 
 Develop a machine learning model capable of predicting the weekly sales at Walmart stores.
 
