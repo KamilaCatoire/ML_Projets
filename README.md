@@ -11,4 +11,4 @@
 
 # Video presentation
 
-https://share.vidyard.com/watch/mAcw5xdMxRF4z3gdEPPFkT?
+https://share.vidyard.com/watch/mAcw5xdMxRF4z3gdEPPFkT?/
